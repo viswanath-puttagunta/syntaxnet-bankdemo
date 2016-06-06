@@ -1,0 +1,1152 @@
+Input: maximum balance since January 2015
+Parse:
+balance NN ROOT
+ +-- maximum JJ amod
+ +-- since IN prep
+     +-- January NNP pobj
+         +-- 2015 CD num
+Input: maximum balance since January 2016
+Parse:
+balance NN ROOT
+ +-- maximum JJ amod
+ +-- since IN prep
+     +-- January NNP pobj
+         +-- 2016 CD num
+Input: maximum balance since February 2015
+Parse:
+balance NN ROOT
+ +-- maximum JJ amod
+ +-- since IN prep
+     +-- February NNP pobj
+         +-- 2015 CD num
+Input: maximum balance since February 2016
+Parse:
+balance NN ROOT
+ +-- maximum JJ amod
+ +-- since IN prep
+     +-- February NNP pobj
+         +-- 2016 CD num
+Input: maximum balance since March 2015
+Parse:
+balance NN ROOT
+ +-- maximum JJ amod
+ +-- since IN prep
+     +-- March NNP pobj
+         +-- 2015 CD num
+Input: maximum balance since March 2016
+Parse:
+balance NN ROOT
+ +-- maximum JJ amod
+ +-- since IN prep
+     +-- March NNP pobj
+         +-- 2016 CD num
+Input: maximum balance since April 2015
+Parse:
+balance NN ROOT
+ +-- maximum JJ amod
+ +-- since IN prep
+     +-- April NNP pobj
+         +-- 2015 CD num
+Input: maximum balance since April 2016
+Parse:
+balance NN ROOT
+ +-- maximum JJ amod
+ +-- since IN prep
+     +-- April NNP pobj
+         +-- 2016 CD num
+Input: maximum balance from January 2015 to January 2016
+Parse:
+balance NN ROOT
+ +-- maximum JJ amod
+ +-- from IN prep
+     +-- January NNP pobj
+     |   +-- 2015 CD num
+     +-- to IN prep
+         +-- January NNP pobj
+             +-- 2016 CD num
+Input: maximum balance from February 2015 to February 2016
+Parse:
+balance NN ROOT
+ +-- maximum JJ amod
+ +-- from IN prep
+     +-- February NNP pobj
+     |   +-- 2015 CD num
+     +-- to IN prep
+         +-- February NNP pobj
+             +-- 2016 CD num
+Input: maximum balance from March 2015 to March 2016
+Parse:
+balance NN ROOT
+ +-- maximum JJ amod
+ +-- from IN prep
+     +-- March NNP pobj
+     |   +-- 2015 CD num
+     +-- to IN prep
+         +-- March NNP pobj
+             +-- 2016 CD num
+Input: maximum balance from April 2015 to April 2016
+Parse:
+balance NN ROOT
+ +-- maximum JJ amod
+ +-- from IN prep
+     +-- April NNP pobj
+     |   +-- 2015 CD num
+     +-- to IN prep
+         +-- April NNP pobj
+             +-- 2016 CD num
+Input: maximum debit since January 2015
+Parse:
+debit NN ROOT
+ +-- maximum JJ amod
+ +-- since IN prep
+     +-- January NNP pobj
+         +-- 2015 CD num
+Input: maximum debit since January 2016
+Parse:
+debit NN ROOT
+ +-- maximum JJ amod
+ +-- since IN prep
+     +-- January NNP pobj
+         +-- 2016 CD num
+Input: maximum debit since February 2015
+Parse:
+debit NN ROOT
+ +-- maximum JJ amod
+ +-- since IN prep
+     +-- February NNP pobj
+         +-- 2015 CD num
+Input: maximum debit since February 2016
+Parse:
+debit NN ROOT
+ +-- maximum JJ amod
+ +-- since IN prep
+     +-- February NNP pobj
+         +-- 2016 CD num
+Input: maximum debit since March 2015
+Parse:
+debit NN ROOT
+ +-- maximum JJ amod
+ +-- since IN prep
+     +-- March NNP pobj
+         +-- 2015 CD num
+Input: maximum debit since March 2016
+Parse:
+debit NN ROOT
+ +-- maximum JJ amod
+ +-- since IN prep
+     +-- March NNP pobj
+         +-- 2016 CD num
+Input: maximum debit since April 2015
+Parse:
+debit NN ROOT
+ +-- maximum JJ amod
+ +-- since IN prep
+     +-- April NNP pobj
+         +-- 2015 CD num
+Input: maximum debit since April 2016
+Parse:
+debit NN ROOT
+ +-- maximum JJ amod
+ +-- since IN prep
+     +-- April NNP pobj
+         +-- 2016 CD num
+Input: maximum debit from January 2015 to January 2016
+Parse:
+debit NN ROOT
+ +-- maximum JJ amod
+ +-- from IN prep
+     +-- January NNP pobj
+     |   +-- 2015 CD num
+     +-- to IN prep
+         +-- January NNP pobj
+             +-- 2016 CD num
+Input: maximum debit from February 2015 to February 2016
+Parse:
+debit NN ROOT
+ +-- maximum JJ amod
+ +-- from IN prep
+     +-- February NNP pobj
+     |   +-- 2015 CD num
+     +-- to IN prep
+         +-- February NNP pobj
+             +-- 2016 CD num
+Input: maximum debit from March 2015 to March 2016
+Parse:
+debit NN ROOT
+ +-- maximum JJ amod
+ +-- from IN prep
+     +-- March NNP pobj
+     |   +-- 2015 CD num
+     +-- to IN prep
+         +-- March NNP pobj
+             +-- 2016 CD num
+Input: maximum debit from April 2015 to April 2016
+Parse:
+debit NN ROOT
+ +-- maximum JJ amod
+ +-- from IN prep
+     +-- April NNP pobj
+     |   +-- 2015 CD num
+     +-- to IN prep
+         +-- April NNP pobj
+             +-- 2016 CD num
+Input: maximum credit since January 2015
+Parse:
+credit NN ROOT
+ +-- maximum JJ amod
+ +-- since IN prep
+     +-- January NNP pobj
+         +-- 2015 CD num
+Input: maximum credit since January 2016
+Parse:
+credit NN ROOT
+ +-- maximum JJ amod
+ +-- since IN prep
+     +-- January NNP pobj
+         +-- 2016 CD num
+Input: maximum credit since February 2015
+Parse:
+credit NN ROOT
+ +-- maximum JJ amod
+ +-- since IN prep
+     +-- February NNP pobj
+         +-- 2015 CD num
+Input: maximum credit since February 2016
+Parse:
+credit NN ROOT
+ +-- maximum JJ amod
+ +-- since IN prep
+     +-- February NNP pobj
+         +-- 2016 CD num
+Input: maximum credit since March 2015
+Parse:
+credit NN ROOT
+ +-- maximum JJ amod
+ +-- since IN prep
+     +-- March NNP pobj
+         +-- 2015 CD num
+Input: maximum credit since March 2016
+Parse:
+credit NN ROOT
+ +-- maximum JJ amod
+ +-- since IN prep
+     +-- March NNP pobj
+         +-- 2016 CD num
+Input: maximum credit since April 2015
+Parse:
+credit NN ROOT
+ +-- maximum JJ amod
+ +-- since IN prep
+     +-- April NNP pobj
+         +-- 2015 CD num
+Input: maximum credit since April 2016
+Parse:
+credit NN ROOT
+ +-- maximum JJ amod
+ +-- since IN prep
+     +-- April NNP pobj
+         +-- 2016 CD num
+Input: maximum credit from January 2015 to January 2016
+Parse:
+credit NN ROOT
+ +-- maximum JJ amod
+ +-- from IN prep
+     +-- January NNP pobj
+     |   +-- 2015 CD num
+     +-- to IN prep
+         +-- January NNP pobj
+             +-- 2016 CD num
+Input: maximum credit from February 2015 to February 2016
+Parse:
+credit NN ROOT
+ +-- maximum JJ amod
+ +-- from IN prep
+     +-- February NNP pobj
+     |   +-- 2015 CD num
+     +-- to IN prep
+         +-- February NNP pobj
+             +-- 2016 CD num
+Input: maximum credit from March 2015 to March 2016
+Parse:
+credit NN ROOT
+ +-- maximum JJ amod
+ +-- from IN prep
+     +-- March NNP pobj
+     |   +-- 2015 CD num
+     +-- to IN prep
+         +-- March NNP pobj
+             +-- 2016 CD num
+Input: maximum credit from April 2015 to April 2016
+Parse:
+credit NN ROOT
+ +-- maximum JJ amod
+ +-- from IN prep
+     +-- April NNP pobj
+     |   +-- 2015 CD num
+     +-- to IN prep
+         +-- April NNP pobj
+             +-- 2016 CD num
+Input: minimum balance since January 2015
+Parse:
+balance NN ROOT
+ +-- minimum JJ amod
+ +-- since IN prep
+     +-- January NNP pobj
+         +-- 2015 CD num
+Input: minimum balance since January 2016
+Parse:
+balance NN ROOT
+ +-- minimum JJ amod
+ +-- since IN prep
+     +-- January NNP pobj
+         +-- 2016 CD num
+Input: minimum balance since February 2015
+Parse:
+balance NN ROOT
+ +-- minimum JJ amod
+ +-- since IN prep
+     +-- February NNP pobj
+         +-- 2015 CD num
+Input: minimum balance since February 2016
+Parse:
+balance NN ROOT
+ +-- minimum JJ amod
+ +-- since IN prep
+     +-- February NNP pobj
+         +-- 2016 CD num
+Input: minimum balance since March 2015
+Parse:
+balance NN ROOT
+ +-- minimum JJ amod
+ +-- since IN prep
+     +-- March NNP pobj
+         +-- 2015 CD num
+Input: minimum balance since March 2016
+Parse:
+balance NN ROOT
+ +-- minimum JJ amod
+ +-- since IN prep
+     +-- March NNP pobj
+         +-- 2016 CD num
+Input: minimum balance since April 2015
+Parse:
+balance NN ROOT
+ +-- minimum JJ amod
+ +-- since IN prep
+     +-- April NNP pobj
+         +-- 2015 CD num
+Input: minimum balance since April 2016
+Parse:
+balance NN ROOT
+ +-- minimum JJ amod
+ +-- since IN prep
+     +-- April NNP pobj
+         +-- 2016 CD num
+Input: minimum balance from January 2015 to January 2016
+Parse:
+balance NN ROOT
+ +-- minimum JJ amod
+ +-- from IN prep
+     +-- January NNP pobj
+     |   +-- 2015 CD num
+     +-- to IN prep
+         +-- January NNP pobj
+             +-- 2016 CD num
+Input: minimum balance from February 2015 to February 2016
+Parse:
+balance NN ROOT
+ +-- minimum JJ amod
+ +-- from IN prep
+     +-- February NNP pobj
+     |   +-- 2015 CD num
+     +-- to IN prep
+         +-- February NNP pobj
+             +-- 2016 CD num
+Input: minimum balance from March 2015 to March 2016
+Parse:
+balance NN ROOT
+ +-- minimum JJ amod
+ +-- from IN prep
+     +-- March NNP pobj
+     |   +-- 2015 CD num
+     +-- to IN prep
+         +-- March NNP pobj
+             +-- 2016 CD num
+Input: minimum balance from April 2015 to April 2016
+Parse:
+balance NN ROOT
+ +-- minimum JJ amod
+ +-- from IN prep
+     +-- April NNP pobj
+     |   +-- 2015 CD num
+     +-- to IN prep
+         +-- April NNP pobj
+             +-- 2016 CD num
+Input: minimum debit since January 2015
+Parse:
+debit NN ROOT
+ +-- minimum JJ amod
+ +-- since IN prep
+     +-- January NNP pobj
+         +-- 2015 CD num
+Input: minimum debit since January 2016
+Parse:
+debit NN ROOT
+ +-- minimum JJ amod
+ +-- since IN prep
+     +-- January NNP pobj
+         +-- 2016 CD num
+Input: minimum debit since February 2015
+Parse:
+debit NN ROOT
+ +-- minimum JJ amod
+ +-- since IN prep
+     +-- February NNP pobj
+         +-- 2015 CD num
+Input: minimum debit since February 2016
+Parse:
+debit NN ROOT
+ +-- minimum JJ amod
+ +-- since IN prep
+     +-- February NNP pobj
+         +-- 2016 CD num
+Input: minimum debit since March 2015
+Parse:
+debit NN ROOT
+ +-- minimum JJ amod
+ +-- since IN prep
+     +-- March NNP pobj
+         +-- 2015 CD num
+Input: minimum debit since March 2016
+Parse:
+debit NN ROOT
+ +-- minimum JJ amod
+ +-- since IN prep
+     +-- March NNP pobj
+         +-- 2016 CD num
+Input: minimum debit since April 2015
+Parse:
+debit NN ROOT
+ +-- minimum JJ amod
+ +-- since IN prep
+     +-- April NNP pobj
+         +-- 2015 CD num
+Input: minimum debit since April 2016
+Parse:
+debit NN ROOT
+ +-- minimum JJ amod
+ +-- since IN prep
+     +-- April NNP pobj
+         +-- 2016 CD num
+Input: minimum debit from January 2015 to January 2016
+Parse:
+debit NN ROOT
+ +-- minimum JJ amod
+ +-- from IN prep
+     +-- January NNP pobj
+     |   +-- 2015 CD num
+     +-- to IN prep
+         +-- January NNP pobj
+             +-- 2016 CD num
+Input: minimum debit from February 2015 to February 2016
+Parse:
+debit NN ROOT
+ +-- minimum JJ amod
+ +-- from IN prep
+     +-- February NNP pobj
+     |   +-- 2015 CD num
+     +-- to IN prep
+         +-- February NNP pobj
+             +-- 2016 CD num
+Input: minimum debit from March 2015 to March 2016
+Parse:
+debit NN ROOT
+ +-- minimum JJ amod
+ +-- from IN prep
+     +-- March NNP pobj
+     |   +-- 2015 CD num
+     +-- to IN prep
+         +-- March NNP pobj
+             +-- 2016 CD num
+Input: minimum debit from April 2015 to April 2016
+Parse:
+debit NN ROOT
+ +-- minimum JJ amod
+ +-- from IN prep
+     +-- April NNP pobj
+     |   +-- 2015 CD num
+     +-- to IN prep
+         +-- April NNP pobj
+             +-- 2016 CD num
+Input: minimum credit since January 2015
+Parse:
+credit NN ROOT
+ +-- minimum JJ amod
+ +-- since IN prep
+     +-- January NNP pobj
+         +-- 2015 CD num
+Input: minimum credit since January 2016
+Parse:
+credit NN ROOT
+ +-- minimum JJ amod
+ +-- since IN prep
+     +-- January NNP pobj
+         +-- 2016 CD num
+Input: minimum credit since February 2015
+Parse:
+credit NN ROOT
+ +-- minimum JJ amod
+ +-- since IN prep
+     +-- February NNP pobj
+         +-- 2015 CD num
+Input: minimum credit since February 2016
+Parse:
+credit NN ROOT
+ +-- minimum JJ amod
+ +-- since IN prep
+     +-- February NNP pobj
+         +-- 2016 CD num
+Input: minimum credit since March 2015
+Parse:
+credit NN ROOT
+ +-- minimum JJ amod
+ +-- since IN prep
+     +-- March NNP pobj
+         +-- 2015 CD num
+Input: minimum credit since March 2016
+Parse:
+credit NN ROOT
+ +-- minimum JJ amod
+ +-- since IN prep
+     +-- March NNP pobj
+         +-- 2016 CD num
+Input: minimum credit since April 2015
+Parse:
+credit NN ROOT
+ +-- minimum JJ amod
+ +-- since IN prep
+     +-- April NNP pobj
+         +-- 2015 CD num
+Input: minimum credit since April 2016
+Parse:
+credit NN ROOT
+ +-- minimum JJ amod
+ +-- since IN prep
+     +-- April NNP pobj
+         +-- 2016 CD num
+Input: minimum credit from January 2015 to January 2016
+Parse:
+credit NN ROOT
+ +-- minimum JJ amod
+ +-- from IN prep
+     +-- January NNP pobj
+     |   +-- 2015 CD num
+     +-- to IN prep
+         +-- January NNP pobj
+             +-- 2016 CD num
+Input: minimum credit from February 2015 to February 2016
+Parse:
+credit NN ROOT
+ +-- minimum JJ amod
+ +-- from IN prep
+     +-- February NNP pobj
+     |   +-- 2015 CD num
+     +-- to IN prep
+         +-- February NNP pobj
+             +-- 2016 CD num
+Input: minimum credit from March 2015 to March 2016
+Parse:
+credit NN ROOT
+ +-- minimum JJ amod
+ +-- from IN prep
+     +-- March NNP pobj
+     |   +-- 2015 CD num
+     +-- to IN prep
+         +-- March NNP pobj
+             +-- 2016 CD num
+Input: minimum credit from April 2015 to April 2016
+Parse:
+credit NN ROOT
+ +-- minimum JJ amod
+ +-- from IN prep
+     +-- April NNP pobj
+     |   +-- 2015 CD num
+     +-- to IN prep
+         +-- April NNP pobj
+             +-- 2016 CD num
+Input: average balance since January 2015
+Parse:
+balance NN ROOT
+ +-- average JJ amod
+ +-- since IN prep
+     +-- January NNP pobj
+         +-- 2015 CD num
+Input: average balance since January 2016
+Parse:
+balance NN ROOT
+ +-- average JJ amod
+ +-- since IN prep
+     +-- January NNP pobj
+         +-- 2016 CD num
+Input: average balance since February 2015
+Parse:
+balance NN ROOT
+ +-- average JJ amod
+ +-- since IN prep
+     +-- February NNP pobj
+         +-- 2015 CD num
+Input: average balance since February 2016
+Parse:
+balance NN ROOT
+ +-- average JJ amod
+ +-- since IN prep
+     +-- February NNP pobj
+         +-- 2016 CD num
+Input: average balance since March 2015
+Parse:
+balance NN ROOT
+ +-- average JJ amod
+ +-- since IN prep
+     +-- March NNP pobj
+         +-- 2015 CD num
+Input: average balance since March 2016
+Parse:
+balance NN ROOT
+ +-- average JJ amod
+ +-- since IN prep
+     +-- March NNP pobj
+         +-- 2016 CD num
+Input: average balance since April 2015
+Parse:
+balance NN ROOT
+ +-- average JJ amod
+ +-- since IN prep
+     +-- April NNP pobj
+         +-- 2015 CD num
+Input: average balance since April 2016
+Parse:
+balance NN ROOT
+ +-- average JJ amod
+ +-- since IN prep
+     +-- April NNP pobj
+         +-- 2016 CD num
+Input: average balance from January 2015 to January 2016
+Parse:
+balance NN ROOT
+ +-- average JJ amod
+ +-- from IN prep
+     +-- January NNP pobj
+     |   +-- 2015 CD num
+     +-- to IN prep
+         +-- January NNP pobj
+             +-- 2016 CD num
+Input: average balance from February 2015 to February 2016
+Parse:
+balance NN ROOT
+ +-- average JJ amod
+ +-- from IN prep
+     +-- February NNP pobj
+     |   +-- 2015 CD num
+     +-- to IN prep
+         +-- February NNP pobj
+             +-- 2016 CD num
+Input: average balance from March 2015 to March 2016
+Parse:
+balance NN ROOT
+ +-- average JJ amod
+ +-- from IN prep
+     +-- March NNP pobj
+     |   +-- 2015 CD num
+     +-- to IN prep
+         +-- March NNP pobj
+             +-- 2016 CD num
+Input: average balance from April 2015 to April 2016
+Parse:
+balance NN ROOT
+ +-- average JJ amod
+ +-- from IN prep
+     +-- April NNP pobj
+     |   +-- 2015 CD num
+     +-- to IN prep
+         +-- April NNP pobj
+             +-- 2016 CD num
+Input: average debit since January 2015
+Parse:
+debit NN ROOT
+ +-- average JJ amod
+ +-- since IN prep
+     +-- January NNP pobj
+         +-- 2015 CD num
+Input: average debit since January 2016
+Parse:
+debit NN ROOT
+ +-- average JJ amod
+ +-- since IN prep
+     +-- January NNP pobj
+         +-- 2016 CD num
+Input: average debit since February 2015
+Parse:
+debit NN ROOT
+ +-- average JJ amod
+ +-- since IN prep
+     +-- February NNP pobj
+         +-- 2015 CD num
+Input: average debit since February 2016
+Parse:
+debit NN ROOT
+ +-- average JJ amod
+ +-- since IN prep
+     +-- February NNP pobj
+         +-- 2016 CD num
+Input: average debit since March 2015
+Parse:
+debit NN ROOT
+ +-- average JJ amod
+ +-- since IN prep
+     +-- March NNP pobj
+         +-- 2015 CD num
+Input: average debit since March 2016
+Parse:
+debit NN ROOT
+ +-- average JJ amod
+ +-- since IN prep
+     +-- March NNP pobj
+         +-- 2016 CD num
+Input: average debit since April 2015
+Parse:
+debit NN ROOT
+ +-- average JJ amod
+ +-- since IN prep
+     +-- April NNP pobj
+         +-- 2015 CD num
+Input: average debit since April 2016
+Parse:
+debit NN ROOT
+ +-- average JJ amod
+ +-- since IN prep
+     +-- April NNP pobj
+         +-- 2016 CD num
+Input: average debit from January 2015 to January 2016
+Parse:
+debit NN ROOT
+ +-- average JJ amod
+ +-- from IN prep
+     +-- January NNP pobj
+     |   +-- 2015 CD num
+     +-- to IN prep
+         +-- January NNP pobj
+             +-- 2016 CD num
+Input: average debit from February 2015 to February 2016
+Parse:
+debit NN ROOT
+ +-- average JJ amod
+ +-- from IN prep
+     +-- February NNP pobj
+     |   +-- 2015 CD num
+     +-- to IN prep
+         +-- February NNP pobj
+             +-- 2016 CD num
+Input: average debit from March 2015 to March 2016
+Parse:
+debit NN ROOT
+ +-- average JJ amod
+ +-- from IN prep
+     +-- March NNP pobj
+     |   +-- 2015 CD num
+     +-- to IN prep
+         +-- March NNP pobj
+             +-- 2016 CD num
+Input: average debit from April 2015 to April 2016
+Parse:
+debit NN ROOT
+ +-- average JJ amod
+ +-- from IN prep
+ |   +-- April NNP pobj
+ |       +-- 2015 CD num
+ +-- to IN prep
+     +-- April NNP pobj
+         +-- 2016 CD num
+Input: average credit since January 2015
+Parse:
+credit NN ROOT
+ +-- average JJ amod
+ +-- since IN prep
+     +-- January NNP pobj
+         +-- 2015 CD num
+Input: average credit since January 2016
+Parse:
+credit NN ROOT
+ +-- average JJ amod
+ +-- since IN prep
+     +-- January NNP pobj
+         +-- 2016 CD num
+Input: average credit since February 2015
+Parse:
+credit NN ROOT
+ +-- average JJ amod
+ +-- since IN prep
+     +-- February NNP pobj
+         +-- 2015 CD num
+Input: average credit since February 2016
+Parse:
+credit NN ROOT
+ +-- average JJ amod
+ +-- since IN prep
+     +-- February NNP pobj
+         +-- 2016 CD num
+Input: average credit since March 2015
+Parse:
+credit NN ROOT
+ +-- average JJ amod
+ +-- since IN prep
+     +-- March NNP pobj
+         +-- 2015 CD num
+Input: average credit since March 2016
+Parse:
+credit NN ROOT
+ +-- average JJ amod
+ +-- since IN prep
+     +-- March NNP pobj
+         +-- 2016 CD num
+Input: average credit since April 2015
+Parse:
+credit NN ROOT
+ +-- average JJ amod
+ +-- since IN prep
+     +-- April NNP pobj
+         +-- 2015 CD num
+Input: average credit since April 2016
+Parse:
+credit NN ROOT
+ +-- average JJ amod
+ +-- since IN prep
+     +-- April NNP pobj
+         +-- 2016 CD num
+Input: average credit from January 2015 to January 2016
+Parse:
+credit NN ROOT
+ +-- average JJ amod
+ +-- from IN prep
+     +-- January NNP pobj
+     |   +-- 2015 CD num
+     +-- to IN prep
+         +-- January NNP pobj
+             +-- 2016 CD num
+Input: average credit from February 2015 to February 2016
+Parse:
+credit NN ROOT
+ +-- average JJ amod
+ +-- from IN prep
+     +-- February NNP pobj
+     |   +-- 2015 CD num
+     +-- to IN prep
+         +-- February NNP pobj
+             +-- 2016 CD num
+Input: average credit from March 2015 to March 2016
+Parse:
+credit NN ROOT
+ +-- average JJ amod
+ +-- from IN prep
+     +-- March NNP pobj
+     |   +-- 2015 CD num
+     +-- to IN prep
+         +-- March NNP pobj
+             +-- 2016 CD num
+Input: average credit from April 2015 to April 2016
+Parse:
+credit NN ROOT
+ +-- average JJ amod
+ +-- from IN prep
+     +-- April NNP pobj
+     |   +-- 2015 CD num
+     +-- to IN prep
+         +-- April NNP pobj
+             +-- 2016 CD num
+Input: total balance since January 2015
+Parse:
+balance NN ROOT
+ +-- total JJ amod
+ +-- since IN prep
+     +-- January NNP pobj
+         +-- 2015 CD num
+Input: total balance since January 2016
+Parse:
+balance NN ROOT
+ +-- total JJ amod
+ +-- since IN prep
+     +-- January NNP pobj
+         +-- 2016 CD num
+Input: total balance since February 2015
+Parse:
+balance NN ROOT
+ +-- total JJ amod
+ +-- since IN prep
+     +-- February NNP pobj
+         +-- 2015 CD num
+Input: total balance since February 2016
+Parse:
+balance NN ROOT
+ +-- total JJ amod
+ +-- since IN prep
+     +-- February NNP pobj
+         +-- 2016 CD num
+Input: total balance since March 2015
+Parse:
+balance NN ROOT
+ +-- total JJ amod
+ +-- since IN prep
+     +-- March NNP pobj
+         +-- 2015 CD num
+Input: total balance since March 2016
+Parse:
+balance NN ROOT
+ +-- total JJ amod
+ +-- since IN prep
+     +-- March NNP pobj
+         +-- 2016 CD num
+Input: total balance since April 2015
+Parse:
+balance NN ROOT
+ +-- total JJ amod
+ +-- since IN prep
+     +-- April NNP pobj
+         +-- 2015 CD num
+Input: total balance since April 2016
+Parse:
+balance NN ROOT
+ +-- total JJ amod
+ +-- since IN prep
+     +-- April NNP pobj
+         +-- 2016 CD num
+Input: total balance from January 2015 to January 2016
+Parse:
+balance NN ROOT
+ +-- total JJ amod
+ +-- from IN prep
+     +-- January NNP pobj
+     |   +-- 2015 CD num
+     +-- to IN prep
+         +-- January NNP pobj
+             +-- 2016 CD num
+Input: total balance from February 2015 to February 2016
+Parse:
+balance NN ROOT
+ +-- total JJ amod
+ +-- from IN prep
+     +-- February NNP pobj
+     |   +-- 2015 CD num
+     +-- to IN prep
+         +-- February NNP pobj
+             +-- 2016 CD num
+Input: total balance from March 2015 to March 2016
+Parse:
+balance NN ROOT
+ +-- total JJ amod
+ +-- from IN prep
+     +-- March NNP pobj
+     |   +-- 2015 CD num
+     +-- to IN prep
+         +-- March NNP pobj
+             +-- 2016 CD num
+Input: total balance from April 2015 to April 2016
+Parse:
+balance NN ROOT
+ +-- total JJ amod
+ +-- from IN prep
+     +-- April NNP pobj
+     |   +-- 2015 CD num
+     +-- to IN prep
+         +-- April NNP pobj
+             +-- 2016 CD num
+Input: total debit since January 2015
+Parse:
+debit NN ROOT
+ +-- total JJ amod
+ +-- since IN prep
+     +-- January NNP pobj
+         +-- 2015 CD num
+Input: total debit since January 2016
+Parse:
+debit NN ROOT
+ +-- total JJ amod
+ +-- since IN prep
+     +-- January NNP pobj
+         +-- 2016 CD num
+Input: total debit since February 2015
+Parse:
+debit NN ROOT
+ +-- total JJ amod
+ +-- since IN prep
+     +-- February NNP pobj
+         +-- 2015 CD num
+Input: total debit since February 2016
+Parse:
+debit NN ROOT
+ +-- total JJ amod
+ +-- since IN prep
+     +-- February NNP pobj
+         +-- 2016 CD num
+Input: total debit since March 2015
+Parse:
+debit NN ROOT
+ +-- total JJ amod
+ +-- since IN prep
+     +-- March NNP pobj
+         +-- 2015 CD num
+Input: total debit since March 2016
+Parse:
+debit NN ROOT
+ +-- total JJ amod
+ +-- since IN prep
+     +-- March NNP pobj
+         +-- 2016 CD num
+Input: total debit since April 2015
+Parse:
+debit NN ROOT
+ +-- total JJ amod
+ +-- since IN prep
+     +-- April NNP pobj
+         +-- 2015 CD num
+Input: total debit since April 2016
+Parse:
+debit NN ROOT
+ +-- total JJ amod
+ +-- since IN prep
+     +-- April NNP pobj
+         +-- 2016 CD num
+Input: total debit from January 2015 to January 2016
+Parse:
+debit NN ROOT
+ +-- total JJ amod
+ +-- from IN prep
+     +-- January NNP pobj
+     |   +-- 2015 CD num
+     +-- to IN prep
+         +-- January NNP pobj
+             +-- 2016 CD num
+Input: total debit from February 2015 to February 2016
+Parse:
+debit NN ROOT
+ +-- total JJ amod
+ +-- from IN prep
+     +-- February NNP pobj
+     |   +-- 2015 CD num
+     +-- to IN prep
+         +-- February NNP pobj
+             +-- 2016 CD num
+Input: total debit from March 2015 to March 2016
+Parse:
+debit NN ROOT
+ +-- total JJ amod
+ +-- from IN prep
+     +-- March NNP pobj
+     |   +-- 2015 CD num
+     +-- to IN prep
+         +-- March NNP pobj
+             +-- 2016 CD num
+Input: total debit from April 2015 to April 2016
+Parse:
+debit NN ROOT
+ +-- total JJ amod
+ +-- from IN prep
+ |   +-- April NNP pobj
+ |       +-- 2015 CD num
+ +-- to IN prep
+     +-- April NNP pobj
+         +-- 2016 CD num
+Input: total credit since January 2015
+Parse:
+credit NN ROOT
+ +-- total JJ amod
+ +-- since IN prep
+     +-- January NNP pobj
+         +-- 2015 CD num
+Input: total credit since January 2016
+Parse:
+credit NN ROOT
+ +-- total JJ amod
+ +-- since IN prep
+     +-- January NNP pobj
+         +-- 2016 CD num
+Input: total credit since February 2015
+Parse:
+credit NN ROOT
+ +-- total JJ amod
+ +-- since IN prep
+     +-- February NNP pobj
+         +-- 2015 CD num
+Input: total credit since February 2016
+Parse:
+credit NN ROOT
+ +-- total JJ amod
+ +-- since IN prep
+     +-- February NNP pobj
+         +-- 2016 CD num
+Input: total credit since March 2015
+Parse:
+credit NN ROOT
+ +-- total JJ amod
+ +-- since IN prep
+     +-- March NNP pobj
+         +-- 2015 CD num
+Input: total credit since March 2016
+Parse:
+credit NN ROOT
+ +-- total JJ amod
+ +-- since IN prep
+     +-- March NNP pobj
+         +-- 2016 CD num
+Input: total credit since April 2015
+Parse:
+credit NN ROOT
+ +-- total JJ amod
+ +-- since IN prep
+     +-- April NNP pobj
+         +-- 2015 CD num
+Input: total credit since April 2016
+Parse:
+credit NN ROOT
+ +-- total JJ amod
+ +-- since IN prep
+     +-- April NNP pobj
+         +-- 2016 CD num
+Input: total credit from January 2015 to January 2016
+Parse:
+credit NN ROOT
+ +-- total JJ amod
+ +-- from IN prep
+     +-- January NNP pobj
+     |   +-- 2015 CD num
+     +-- to IN prep
+         +-- January NNP pobj
+             +-- 2016 CD num
+Input: total credit from February 2015 to February 2016
+Parse:
+credit NN ROOT
+ +-- total JJ amod
+ +-- from IN prep
+     +-- February NNP pobj
+     |   +-- 2015 CD num
+     +-- to IN prep
+         +-- February NNP pobj
+             +-- 2016 CD num
+Input: total credit from March 2015 to March 2016
+Parse:
+credit NN ROOT
+ +-- total JJ amod
+ +-- from IN prep
+     +-- March NNP pobj
+     |   +-- 2015 CD num
+     +-- to IN prep
+         +-- March NNP pobj
+             +-- 2016 CD num
+Input: total credit from April 2015 to April 2016
+Parse:
+credit NN ROOT
+ +-- total JJ amod
+ +-- from IN prep
+     +-- April NNP pobj
+     |   +-- 2015 CD num
+     +-- to IN prep
+         +-- April NNP pobj
+             +-- 2016 CD num

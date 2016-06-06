@@ -1,0 +1,144 @@
+maximum balance since January 2015
+maximum balance since January 2016
+maximum balance since February 2015
+maximum balance since February 2016
+maximum balance since March 2015
+maximum balance since March 2016
+maximum balance since April 2015
+maximum balance since April 2016
+maximum balance from January 2015 to January 2016
+maximum balance from February 2015 to February 2016
+maximum balance from March 2015 to March 2016
+maximum balance from April 2015 to April 2016
+maximum debit since January 2015
+maximum debit since January 2016
+maximum debit since February 2015
+maximum debit since February 2016
+maximum debit since March 2015
+maximum debit since March 2016
+maximum debit since April 2015
+maximum debit since April 2016
+maximum debit from January 2015 to January 2016
+maximum debit from February 2015 to February 2016
+maximum debit from March 2015 to March 2016
+maximum debit from April 2015 to April 2016
+maximum credit since January 2015
+maximum credit since January 2016
+maximum credit since February 2015
+maximum credit since February 2016
+maximum credit since March 2015
+maximum credit since March 2016
+maximum credit since April 2015
+maximum credit since April 2016
+maximum credit from January 2015 to January 2016
+maximum credit from February 2015 to February 2016
+maximum credit from March 2015 to March 2016
+maximum credit from April 2015 to April 2016
+minimum balance since January 2015
+minimum balance since January 2016
+minimum balance since February 2015
+minimum balance since February 2016
+minimum balance since March 2015
+minimum balance since March 2016
+minimum balance since April 2015
+minimum balance since April 2016
+minimum balance from January 2015 to January 2016
+minimum balance from February 2015 to February 2016
+minimum balance from March 2015 to March 2016
+minimum balance from April 2015 to April 2016
+minimum debit since January 2015
+minimum debit since January 2016
+minimum debit since February 2015
+minimum debit since February 2016
+minimum debit since March 2015
+minimum debit since March 2016
+minimum debit since April 2015
+minimum debit since April 2016
+minimum debit from January 2015 to January 2016
+minimum debit from February 2015 to February 2016
+minimum debit from March 2015 to March 2016
+minimum debit from April 2015 to April 2016
+minimum credit since January 2015
+minimum credit since January 2016
+minimum credit since February 2015
+minimum credit since February 2016
+minimum credit since March 2015
+minimum credit since March 2016
+minimum credit since April 2015
+minimum credit since April 2016
+minimum credit from January 2015 to January 2016
+minimum credit from February 2015 to February 2016
+minimum credit from March 2015 to March 2016
+minimum credit from April 2015 to April 2016
+average balance since January 2015
+average balance since January 2016
+average balance since February 2015
+average balance since February 2016
+average balance since March 2015
+average balance since March 2016
+average balance since April 2015
+average balance since April 2016
+average balance from January 2015 to January 2016
+average balance from February 2015 to February 2016
+average balance from March 2015 to March 2016
+average balance from April 2015 to April 2016
+average debit since January 2015
+average debit since January 2016
+average debit since February 2015
+average debit since February 2016
+average debit since March 2015
+average debit since March 2016
+average debit since April 2015
+average debit since April 2016
+average debit from January 2015 to January 2016
+average debit from February 2015 to February 2016
+average debit from March 2015 to March 2016
+average debit from April 2015 to April 2016
+average credit since January 2015
+average credit since January 2016
+average credit since February 2015
+average credit since February 2016
+average credit since March 2015
+average credit since March 2016
+average credit since April 2015
+average credit since April 2016
+average credit from January 2015 to January 2016
+average credit from February 2015 to February 2016
+average credit from March 2015 to March 2016
+average credit from April 2015 to April 2016
+total balance since January 2015
+total balance since January 2016
+total balance since February 2015
+total balance since February 2016
+total balance since March 2015
+total balance since March 2016
+total balance since April 2015
+total balance since April 2016
+total balance from January 2015 to January 2016
+total balance from February 2015 to February 2016
+total balance from March 2015 to March 2016
+total balance from April 2015 to April 2016
+total debit since January 2015
+total debit since January 2016
+total debit since February 2015
+total debit since February 2016
+total debit since March 2015
+total debit since March 2016
+total debit since April 2015
+total debit since April 2016
+total debit from January 2015 to January 2016
+total debit from February 2015 to February 2016
+total debit from March 2015 to March 2016
+total debit from April 2015 to April 2016
+total credit since January 2015
+total credit since January 2016
+total credit since February 2015
+total credit since February 2016
+total credit since March 2015
+total credit since March 2016
+total credit since April 2015
+total credit since April 2016
+total credit from January 2015 to January 2016
+total credit from February 2015 to February 2016
+total credit from March 2015 to March 2016
+total credit from April 2015 to April 2016
