@@ -85,12 +85,25 @@ def print_node(node, spaces):
 	for child in node['children']:
 		print_node(child, spaces+1)
 
-print "-------"
+def getSubTree(t, pos, li):
+	"""
+	Input: Parsed tree object
+	Output: (list of) Subtree that has requested pos
+	"""
+	for child in t['children']:
+		if child['pos'] == pos:
+			li.append(child)
+		else:
+			getSubTree(child, pos, li)
 
-root = str_to_tree(s1)
-print_node(root, 0)
 
-root = str_to_tree(s2)
-print_node(root, 0)
+if __name__ == '__main__' :
+	print "-------"
+
+	root = str_to_tree(s1)
+	print_node(root, 0)
+
+	root = str_to_tree(s2)
+	print_node(root, 0)
 
 
