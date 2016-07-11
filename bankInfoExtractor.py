@@ -48,6 +48,12 @@ def bankKeyWord(t):
 				adj = adjd[tadj]
 	return (keyword,adj)
 
+
+#Think this time related code should be stand alone in another file
+from datetime import datetime
+from timestring import Date
+from timestring import Range
+
 def timeLine(t):
 	"""
 	Input: Parsed tree object
@@ -61,4 +67,46 @@ def timeLine(t):
 		print "-----"
 		li2 = list()
 		ttt.flattenTreeKeys(node, li2)
-		print ' '.join(li2[1:])
+		s = ' '.join(li2[1:])
+		print s
+
+	s = ""
+
+	if len(li) == 0:
+		#Try to see if "this month" or "last month"
+		ttt.getSubTree(t, 'NN', li)
+		for node in li:
+			if ((node['key'] == 'month')
+			    |(node['key'] == 'year')):
+				li2 = list()
+				ttt.flattenTreeKeys(node, li2)
+				li2.reverse()
+				s = ' '.join(li2)
+				break;
+		if s == '':
+			s = "in last month"
+	elif li[0]['key'] == 'in':
+		#Eg: in may 2016
+		li2 = list()
+		ttt.flattenTreeKeys(li[0], li2)
+		s = ' '.join(li2)
+	elif li[0]['key'] == 'since':
+		#Eg: since feb 2016
+		li2 = list()
+		ttt.flattenTreeKeys(li[0], li2)
+		s = ' '.join(li2) + ' to now'
+	elif li[0]['key'] == 'from':
+		if (len(li) == 2):
+			#Have distinct from and to nodes
+			#Eg: from january 2016 to may 2016
+			li2 = list()
+			ttt.flattenTreeKeys(li[0], li2)
+			ttt.flattenTreeKeys(li[1], li2)
+			s = ' '.join(li2)
+		else:
+			li2 = list()
+			ttt.flattenTreeKeys(li[0], li2)
+			s = ' '.join(li2)
+	print s
+	r = Range(s)
+	print r

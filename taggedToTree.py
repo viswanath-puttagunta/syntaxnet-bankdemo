@@ -32,12 +32,13 @@ def find_begin_spaces(line):
 	l = line.split(' ')
 	spaces = 1
 	cp = 1
-	if (l[cp] == '|'):
-		cp += 3
-		spaces += 1
-	while(l[cp] == ''):
-		spaces += 1
-		cp += 4
+	while((l[cp] == '') | (l[cp] == '|')):
+		if l[cp] == '':
+			spaces += 1
+			cp += 4
+		else:
+			cp += 3
+			spaces += 1
 	#should have reached '+--'
 	cp += 1
 	return (spaces, l[cp:])
