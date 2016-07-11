@@ -1,17 +1,34 @@
 import bankInfoExtractor as bie
 import taggedToTree as ttt
+import sys
+import os
+import subprocess
+
+#TBD: Remove hard coding of paths
+SD_PATH = '/home/vishp/linaro/tools/syntaxnet/models/syntaxnet/syntaxnet'
+DEMO_CMD = 'demo.sh'
+CWD = '/home/vishp/linaro/tools/syntaxnet/models/syntaxnet'
+s = raw_input().lower()
+cmd = 'echo "' + s + '" | ' + SD_PATH + '/' + DEMO_CMD + ' 2>/dev/null'
 
 
-root = ttt.str_to_tree(ttt.s1)
+sno = subprocess.check_output(cmd, shell=True, cwd=CWD)
+
+sno_st = '\n'.join(sno.split('\n')[2:]).rstrip()
+print sno_st
+
+print "-----"
+root = ttt.str_to_tree(sno_st)
 ttt.print_node(root, 0)
 
-li = list()
+print "--- clean up tree to remove unnecessary nodes---"
+root = bie.cleanTree(root)
+ttt.print_node(root, 0)
 
-ttt.getSubTree(root, 'IN', li)
+print "Extracting (keyword,adj)"
+(keyword,adj) = bie.bankKeyWord(root)
+print "keyword: " + keyword
+print "adj: " + adj
 
-print "len of subtree list: %d" % len(li)
-
-for node in li:
-	print "--------"
-	ttt.print_node(node, 0)
-	print "--------"
+print "Extracting Timeline"
+bie.timeLine(root)

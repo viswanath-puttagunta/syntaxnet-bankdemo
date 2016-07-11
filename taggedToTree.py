@@ -96,6 +96,14 @@ def getSubTree(t, pos, li):
 		else:
 			getSubTree(child, pos, li)
 
+def flattenTreeKeys(t, li):
+	"""
+	Returns list of keys (words)
+	"""
+	li.append(t['key'])
+	for node in t['children']:
+		flattenTreeKeys(node,li)
+
 
 if __name__ == '__main__' :
 	print "-------"
