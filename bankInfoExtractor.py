@@ -2,7 +2,8 @@ import taggedToTree as ttt
 
 adjd = {"average":"avg", "avg":"avg", \
 	"maximum":"max", "max":"max", \
-	"minimum":"min", "min":"min"}
+	"minimum":"min", "min":"min", \
+	"latest":"curr", "last":"curr", "current":"curr"}
 keywordl = ['balance','debit','credit']
 
 def cleanTree(t):
@@ -110,3 +111,4 @@ def timeLine(t):
 	print s
 	r = Range(s)
 	print r
+	return r

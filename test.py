@@ -31,4 +31,6 @@ print "keyword: " + keyword
 print "adj: " + adj
 
 print "Extracting Timeline"
-bie.timeLine(root)
+r = bie.timeLine(root)
+
+print r
